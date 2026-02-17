@@ -1,3 +1,5 @@
+# Uniform Cost Search (UCS) implementation in Python
+
 import heapq
 
 cost_graph = {
